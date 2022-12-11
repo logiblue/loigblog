@@ -33,9 +33,7 @@ const CONFIG = {
 
   // notion configuration
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
-    // if you prefer not to make your database public, use this!!!
-    accessToken: process.env.NOTION_ACCESS_TOKEN
+    pageId: "50a934bf25fb4ddd9939cabb1d56a9fc",
   },
 
   // plugin configuration
